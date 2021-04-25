@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GameSettings>
+  <Socket>
+    <port>6969</port>
+  </Socket>
+  <Misc>
+    <maxPlayers>4</maxPlayers>
+    <maxLaps>1</maxLaps>
+    <maxSpeed>2</maxSpeed>
+  </Misc>
+</GameSettings>
